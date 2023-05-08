@@ -2,6 +2,7 @@
 description: >-
   SpaCy is another Python package that supports multilingual NLP, across
   multiple pipelines.
+coverY: 0
 ---
 
 # SpaCy

@@ -2,6 +2,7 @@
 description: >-
   NLTK is a popular NLP Python package that allows users to access corpora and
   lexical resources
+coverY: 0
 ---
 
 # NLTK
