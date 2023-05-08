@@ -12,6 +12,8 @@ description: >-
 
 ##
 
+{% embed url="https://github.com/angelaaaateng/NLP_Roadmap/blob/main/NLP_Tools_and_Resources.ipynb" %}
+
 ## References:&#x20;
 
 * [https://www.nltk.org/](https://www.nltk.org/)&#x20;
