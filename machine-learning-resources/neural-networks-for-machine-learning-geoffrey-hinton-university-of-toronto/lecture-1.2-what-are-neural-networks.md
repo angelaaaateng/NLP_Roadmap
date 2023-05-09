@@ -19,7 +19,7 @@
     * when a spike of actvity arrives at an axon, these vesicles migrate to the surface and release chemicals
     * transmitter molecules diffuse across the synaptic cleft and bind to receptor molecules&#x20;
 
-    <figure><img src="../.gitbook/assets/Screen Shot 2023-05-09 at 4.56.26 PM.png" alt=""><figcaption><p>Cortical Neuron</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-09 at 4.56.26 PM.png" alt=""><figcaption><p>Cortical Neuron</p></figcaption></figure>
 * Synapses _adapt_, and that's most of what learning is&#x20;
   * the effectiveness of a synapse can be changed
   * synapses are slow, but they have advantages over RAM on a computer
