@@ -6,8 +6,6 @@
 * to understand a style of parallel computations inspired by neurons and their adaptive connections
 * to solve practical problems by using novel learning algorithms inspired by the brain (even if this isn't actually how the brain works)&#x20;
 
-
-
 ## A typical cortical neuron
 
 * gross physical structure:&#x20;
@@ -27,4 +25,15 @@
   * synapses are slow, but they have advantages over RAM on a computer
     * small and low power
     * they can adapt using locally available signals
-*
+
+## How the brain works:
+
+* each neuron receives inputs from other neurons
+* the effect of each input line on the neuron is controlled by a synaptic weight
+* the synaptic weights adapt so that the whole network learns to perform useful computations
+
+## Modularity and the brain:&#x20;
+
+* different parts of the cortex do different things
+* the cortex is made of general purpose stuff that has the ability to turn into special purpose hardware in response to experience
+
