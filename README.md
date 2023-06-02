@@ -3,6 +3,7 @@ description: Amber's Roadmap For Becoming an NLP Expert in 4 Months with Suhas
 ---
 
 # 👩💻 NLP Roadmap
+https://nlp-roadmap.gitbook.io/nlp-roadmap/ 
 
 {% embed url="https://docs.google.com/document/d/1qLeVbPE_ICVSeNkytx9ly_y4r3BROhAvAYadj1WNjCc/edit" %}
 Amber's Roadmap to Success
