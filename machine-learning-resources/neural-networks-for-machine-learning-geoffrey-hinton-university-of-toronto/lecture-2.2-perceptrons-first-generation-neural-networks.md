@@ -9,6 +9,7 @@
 1. Convert the raw input vector into a vector of feature activations&#x20;
    * Use handwritten programs based on common sense to define the features
 2. Learn how to weight each of the feature activations to get a single scalar quantity
+3.
 
 
 
