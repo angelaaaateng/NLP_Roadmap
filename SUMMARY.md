@@ -20,3 +20,4 @@
   * [Lecture 2.2 - Perceptrons: First-generation neural networks](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.2-perceptrons-first-generation-neural-networks.md)
   * [Lecture 2.3 - A geometrical view of perceptrons](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.3-a-geometrical-view-of-perceptrons.md)
   * [Lecture 2.4 - Why the learning works](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.4-why-the-learning-works.md)
+  * [Lecture 2.5 - What perceptrons can't do](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.5-what-perceptrons-cant-do.md)
