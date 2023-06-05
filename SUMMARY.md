@@ -18,3 +18,4 @@
   * [Lecture 1.5 - Three types of learning](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-1.5-three-types-of-learning.md)
   * [Lecture 2.1 - Types of neural network architectures](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.1-types-of-neural-network-architectures.md)
   * [Lecture 2.2 - Perceptrons: First-generation neural networks](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.2-perceptrons-first-generation-neural-networks.md)
+  * [Lecture 2.3 - A geometrical view of perceptrons](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-2.3-a-geometrical-view-of-perceptrons.md)
