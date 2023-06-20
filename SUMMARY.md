@@ -24,3 +24,7 @@
   * [Lecture 3.1 - Learning the weights of a linear neuron](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-3.1-learning-the-weights-of-a-linear-neuron.md)
   * [Lecture 3.2 - The error surface for a linear neuron](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-3.2-the-error-surface-for-a-linear-neuron.md)
   * [Lecture 3.3 - Learning the weights of a logistic output neuron](machine-learning-resources/neural-networks-for-machine-learning-geoffrey-hinton-university-of-toronto/lecture-3.3-learning-the-weights-of-a-logistic-output-neuron.md)
+
+## 👩💻 Key Concepts
+
+* [Large Language Models](key-concepts/large-language-models.md)
