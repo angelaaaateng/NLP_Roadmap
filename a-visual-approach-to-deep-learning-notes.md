@@ -30,9 +30,9 @@ The book can be bought [here](https://www.amazon.com/Deep-Learning-Approach-Andr
 * Ex. Image classifier → image and label
 * Training and prediction&#x20;
 * In response to the image the classifier tells us the likelihood for each of the labels that it was trained to recognize&#x20;
-*
 
-    <figure><img src="https://lh6.googleusercontent.com/Pt8MVffr3aVcXNiEhc-EeRmVDGS7GV90-qJcz_qvguOKH1eVTbIcGhMUG_sciZuIynQUs0udK5mb07F5MKym4frAhuoheRhXhF6AIZ8xmJMu40tbTdQUMSZLwmo8nC2BqLH952nIHk4WHfqGOxyoUF4" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/Pt8MVffr3aVcXNiEhc-EeRmVDGS7GV90-qJcz_qvguOKH1eVTbIcGhMUG_sciZuIynQUs0udK5mb07F5MKym4frAhuoheRhXhF6AIZ8xmJMu40tbTdQUMSZLwmo8nC2BqLH952nIHk4WHfqGOxyoUF4" alt=""><figcaption></figcaption></figure>
+
 * &#x20;If the confidence isn’t reassuring, we could try a different algorithm or ask a human for help&#x20;
 
 #### Unsupervised Learning&#x20;
