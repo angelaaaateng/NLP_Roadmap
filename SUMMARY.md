@@ -28,3 +28,7 @@
 ## 👩💻 Key Concepts
 
 * [Large Language Models](key-concepts/large-language-models.md)
+
+***
+
+* [A Visual Approach to Deep Learning Notes](a-visual-approach-to-deep-learning-notes.md)
